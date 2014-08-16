@@ -1,0 +1,13 @@
+C:\Users\Micro\Documents\GitHub\ICT3611-Assignment1\ICT3611-Assignment1\bin\Debug\ICT3611-Assignment1.exe.config
+C:\Users\Micro\Documents\GitHub\ICT3611-Assignment1\ICT3611-Assignment1\bin\Debug\ICT3611-Assignment1.exe
+C:\Users\Micro\Documents\GitHub\ICT3611-Assignment1\ICT3611-Assignment1\bin\Debug\ICT3611-Assignment1.pdb
+C:\Users\Micro\Documents\GitHub\ICT3611-Assignment1\ICT3611-Assignment1\bin\Debug\ICT3611-Assignment1.xml
+C:\Users\Micro\Documents\GitHub\ICT3611-Assignment1\ICT3611-Assignment1\obj\Debug\ICT3611_Assignment1.Resources.resources
+C:\Users\Micro\Documents\GitHub\ICT3611-Assignment1\ICT3611-Assignment1\obj\Debug\ICT3611-Assignment1.vbproj.GenerateResource.Cache
+C:\Users\Micro\Documents\GitHub\ICT3611-Assignment1\ICT3611-Assignment1\obj\Debug\ICT3611-Assignment1.exe
+C:\Users\Micro\Documents\GitHub\ICT3611-Assignment1\ICT3611-Assignment1\obj\Debug\ICT3611-Assignment1.xml
+C:\Users\Micro\Documents\GitHub\ICT3611-Assignment1\ICT3611-Assignment1\obj\Debug\ICT3611-Assignment1.pdb
+C:\Users\Micro\Documents\GitHub\ICT3611-Assignment1\ICT3611-Assignment1\obj\Debug\ICT3611_Assignment1.frmStudentRegistration.resources
+C:\Users\Micro\Documents\GitHub\ICT3611-Assignment1\ICT3611-Assignment1\obj\Debug\ICT3611_Assignment1.frmModuleRegistration.resources
+C:\Users\Micro\Documents\GitHub\ICT3611-Assignment1\ICT3611-Assignment1\obj\Debug\ICT3611_Assignment1.frmModuleActivation.resources
+C:\Users\Micro\Documents\GitHub\ICT3611-Assignment1\ICT3611-Assignment1\obj\Debug\ICT3611_Assignment1.frmStudentEnrolment.resources
