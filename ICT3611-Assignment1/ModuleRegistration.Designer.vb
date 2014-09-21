@@ -39,6 +39,8 @@ Partial Class frmModuleRegistration
         Me.ModuleTitle = CType(New System.Windows.Forms.ColumnHeader(), System.Windows.Forms.ColumnHeader)
         Me.ActivationSemester = CType(New System.Windows.Forms.ColumnHeader(), System.Windows.Forms.ColumnHeader)
         Me.btnCreateModule = New System.Windows.Forms.Button()
+        Me.Button1 = New System.Windows.Forms.Button()
+        Me.PrintDocument1 = New System.Drawing.Printing.PrintDocument()
         Me.Panel1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -176,18 +178,31 @@ Partial Class frmModuleRegistration
         '
         'btnCreateModule
         '
-        Me.btnCreateModule.Location = New System.Drawing.Point(499, 150)
+        Me.btnCreateModule.Location = New System.Drawing.Point(505, 135)
         Me.btnCreateModule.Name = "btnCreateModule"
         Me.btnCreateModule.Size = New System.Drawing.Size(208, 35)
         Me.btnCreateModule.TabIndex = 19
         Me.btnCreateModule.Text = "Create Module"
         Me.btnCreateModule.UseVisualStyleBackColor = True
         '
+        'Button1
+        '
+        Me.Button1.Location = New System.Drawing.Point(505, 187)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(208, 35)
+        Me.Button1.TabIndex = 20
+        Me.Button1.Text = "Print Entry Module"
+        Me.Button1.UseVisualStyleBackColor = True
+        '
+        'PrintDocument1
+        '
+        '
         'frmModuleRegistration
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(784, 561)
+        Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.btnCreateModule)
         Me.Controls.Add(Me.lstView)
         Me.Controls.Add(Me.txtActicationSemester)
@@ -223,4 +238,6 @@ Partial Class frmModuleRegistration
     Friend WithEvents ModuleTitle As System.Windows.Forms.ColumnHeader
     Friend WithEvents ActivationSemester As System.Windows.Forms.ColumnHeader
     Friend WithEvents btnCreateModule As System.Windows.Forms.Button
+    Friend WithEvents Button1 As System.Windows.Forms.Button
+    Friend WithEvents PrintDocument1 As System.Drawing.Printing.PrintDocument
 End Class

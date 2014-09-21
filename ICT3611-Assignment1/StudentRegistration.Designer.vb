@@ -53,6 +53,11 @@ Partial Class frmStudentRegistration
         Me.Panel1.SuspendLayout()
         Me.SuspendLayout()
         '
+        'Surname
+        '
+        Surname.Text = "Surname"
+        Surname.Width = 127
+        '
         'btnStudentRegistration
         '
         Me.btnStudentRegistration.Location = New System.Drawing.Point(27, 39)
@@ -240,11 +245,6 @@ Partial Class frmStudentRegistration
         '
         Me.Intitials.Text = "Intitials"
         Me.Intitials.Width = 69
-        '
-        'Surname
-        '
-        Surname.Text = "Surname"
-        Surname.Width = 127
         '
         'Address
         '
